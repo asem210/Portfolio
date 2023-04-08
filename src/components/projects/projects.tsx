@@ -23,6 +23,7 @@ export const Projects: React.FC<{}> = ({}) => {
               des={card.description}
               src={card.img}
               link={card.link}
+              technologies={card.technologies}
             />
           </div>
         ))}

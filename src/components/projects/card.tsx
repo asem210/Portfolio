@@ -1,22 +1,27 @@
 import React from "react";
-import { BsGithub } from "react-icons/bs";
 import { FaGlobe } from "react-icons/fa";
+
+import { software } from "../../constants/projects/projects";
 
 export const ProjectsCard: React.FC<{
   src: string;
   title: string;
   des: string;
   link: string;
-}> = ({ src, title, des, link }) => {
+  technologies: software[];
+}> = ({ src, title, des, link, technologies }) => {
   return (
     <div className="font-poppins">
       <div className="w-full p-4 xl:px-12 h-auto xl:py-10 rounded-lg shadow-shadowOne flex flex-col bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-gray-900 hover:gray-900 transition-colors duration-1000">
         <div className="w-full h-[80%] overflow-hidden rounded-lg">
-          <img
-            className="w-full h-60 object-cover group-hover:scale-110 duration-300 cursor-pointer"
-            src={src}
-            alt="src"
-          />
+          <a href={link}>
+            {" "}
+            <img
+              className="w-full h-60 object-cover group-hover:scale-110 duration-300 cursor-pointer"
+              src={src}
+              alt="src"
+            />
+          </a>
         </div>
         <div className="w-full mt-5 flex flex-col  gap-6">
           <div>
@@ -25,9 +30,6 @@ export const ProjectsCard: React.FC<{
                 {title}
               </h3>
               <div className="flex gap-2">
-                <span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
-                  <BsGithub />
-                </span>
                 <span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
                   <a href={link}>
                     {" "}
@@ -40,6 +42,23 @@ export const ProjectsCard: React.FC<{
               {des}
             </p>
           </div>
+        </div>
+        <h3 className="text-base uppercase text-firstmisc font-normal mt-5">
+          Tecnologías
+        </h3>
+        <div className="w-full mt-5 grid grid-cols-5 h-fit gap-3 ">
+          {technologies.map((item, idx) => (
+            <div className="flex flex-col  items-center">
+              <img
+                src={item.img}
+                alt={item.name}
+                className="sm:h-[100px] sm:w-[100px] h-[70px] "
+              />
+              <h1 className="text-center mt-4 sm:text-[14px] text-[11px]">
+                {item.name}
+              </h1>
+            </div>
+          ))}
         </div>
       </div>
     </div>

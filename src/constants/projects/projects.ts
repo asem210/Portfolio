@@ -7,8 +7,9 @@ interface itemproject {
   technologies: software[];
 }
 
-interface software {
+export interface software {
   id: number;
+  name: string;
   img: string;
 }
 

@@ -1,6 +1,8 @@
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
+import { toast, ToastContainer, Zoom } from "react-toastify";
+
 import Title from "../tittle/tittle";
 
 export const Contact: React.FC<{}> = ({}) => {
@@ -15,7 +17,7 @@ export const Contact: React.FC<{}> = ({}) => {
       )
       .then(
         (result) => {
-          alert(result.text);
+          alert("Email enviado,gracias por contactarme.");
         },
         (error) => {
           alert(error.text);
@@ -157,6 +159,7 @@ export const Contact: React.FC<{}> = ({}) => {
           </form>
         </div>
       </div>
+      <ToastContainer />
     </section>
   );
 };

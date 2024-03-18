@@ -20,10 +20,18 @@ export const Education: React.FC<{}> = () => {
         </div>
         <div className="mt-6 lg:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Estudiante de Ingeniería de Sistemas e Informática"
-            subTitle="Universidad Nacional Mayor de San Marcos (2019 - Actualidad)"
-            result="En curso"
-            des="Actualmente me encuentro cursando el noveno ciclo de la carrera de Ingeniería de Sistemas e Informática, por lo cual tengo previsto culminarla a fines del presente año."
+            title="Egresado de Ingeniería de Sistemas e Informática"
+            subTitle="Universidad Nacional Mayor de San Marcos (2019 - 2024)"
+            result="Finalizado"
+            des="Culminé exitosamente la carrera de Ingeniería de Sistemas e Informática en marzo del año 2024."
+            linkState={false}
+            link=""
+          />{" "}
+          <ResumeCard
+            title="Bachiller en Ingeniería de Sistemas e Informática"
+            subTitle="Universidad Nacional Mayor de San Marcos"
+            result="En trámite"
+            des="Actualmente me encuentro realizando el trámite para la obtención del grado académico de Bachiller, se espera que obtenga este grado a mediados del presente año. "
             linkState={false}
             link=""
           />

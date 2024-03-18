@@ -3,34 +3,34 @@
     "id": 1,
     "title": "Cevicheria admin",
     "description": "Enfocado en la administración del inventario de la cevicheria, tales como los platillos, inventario y creación de cuentas para el personal",
-    "img": "https://drive.google.com/uc?export=view&id=1D1kEEtU-JooOcaxw4yvrjATX1jTfew0g",
+    "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fbrisas%20marinas%20-%20admin.PNG?alt=media&token=23f625bd-6fd1-4e33-beff-32f23129ac61",
     "link": "https://donde-alfredo-admin.vercel.app/",
 
     "technologies": [
       {
         "id": 1,
         "name": "React",
-        "img": "https://drive.google.com/uc?export=view&id=1dg3yK3fIafxYx-GeytV2OMhWkX5Q7dX-"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Freact.png?alt=media&token=967cbb90-49b0-4c11-b1bc-8c96c5f691b1"
       },
       {
         "id": 2,
         "name": "Node + Express",
-        "img": "https://drive.google.com/uc?export=view&id=1AUDvYlPNaJulPvwWMJN97hxyqQvy1R6b"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Fexpress.png?alt=media&token=d3c7d0d4-e0e2-4b1e-a1c9-c5e35638fe77"
       },
       {
         "id": 3,
         "name": "TypeScript",
-        "img": "https://drive.google.com/uc?export=view&id=1ZOTrljJ_kRZMs6aKXX3F12_nJhtZw6eR"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Ftypescript.png?alt=media&token=4975e521-5643-40cd-9a73-9fb0f4d8f658"
       },
       {
         "id": 4,
         "name": "PostgreSQL",
-        "img": "https://drive.google.com/uc?export=view&id=1RKkdBfL59uVYRlHhnLK_ShjUTt3YxoVh"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2F5fa111f3-d1f6-4bf9-bf4e-d5270be28bf9.png?alt=media&token=a480dfee-fd8e-48cc-807b-f2e9b8c0d092"
       },
       {
         "id": 5,
         "name": "Lambda AWS",
-        "img": "https://drive.google.com/uc?export=view&id=17DkJIK2WBpEjHE6L047ZJn1LV_2wSJQa"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Ff370a2e4-56da-4683-bfb3-18a0b9d08433.png?alt=media&token=850e0736-4b8f-4211-b053-310e22bb3a61"
       }
     ]
   },
@@ -38,34 +38,59 @@
     "id": 2,
     "title": "Cevicheria cliente",
     "description": "Vista para el cliente, donde podrá simular la compra de los platillos que desee, interactuar con un carrito de compras y ver un historial de compras realizadas",
-    "img": "https://drive.google.com/uc?export=view&id=1XFqZABF70HbgxeXC3ejTSHUTHHhKV1PQ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fcli.PNG?alt=media&token=77d28e33-0a80-4b2d-9a88-b8c991bdb100",
     "link": "https://donde-alfredo-cli.vercel.app/brisasMarinas",
 
     "technologies": [
       {
         "id": 1,
         "name": "React",
-        "img": "https://drive.google.com/uc?export=view&id=1dg3yK3fIafxYx-GeytV2OMhWkX5Q7dX-"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Freact.png?alt=media&token=967cbb90-49b0-4c11-b1bc-8c96c5f691b1"
       },
       {
         "id": 2,
         "name": "Node + Express",
-        "img": "https://drive.google.com/uc?export=view&id=1AUDvYlPNaJulPvwWMJN97hxyqQvy1R6b"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Fexpress.png?alt=media&token=d3c7d0d4-e0e2-4b1e-a1c9-c5e35638fe77"
       },
       {
         "id": 3,
         "name": "TypeScript",
-        "img": "https://drive.google.com/uc?export=view&id=1ZOTrljJ_kRZMs6aKXX3F12_nJhtZw6eR"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Ftypescript.png?alt=media&token=4975e521-5643-40cd-9a73-9fb0f4d8f658"
       },
       {
         "id": 4,
         "name": "PostgreSQL",
-        "img": "https://drive.google.com/uc?export=view&id=1RKkdBfL59uVYRlHhnLK_ShjUTt3YxoVh"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2F5fa111f3-d1f6-4bf9-bf4e-d5270be28bf9.png?alt=media&token=a480dfee-fd8e-48cc-807b-f2e9b8c0d092"
       },
       {
         "id": 5,
         "name": "Lambda AWS",
-        "img": "https://drive.google.com/uc?export=view&id=17DkJIK2WBpEjHE6L047ZJn1LV_2wSJQa"
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Ff370a2e4-56da-4683-bfb3-18a0b9d08433.png?alt=media&token=850e0736-4b8f-4211-b053-310e22bb3a61"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Estimación de pose",
+    "description": "Implementación de un modelo para la detección de la pose de una persona utilizando TensorflowJS, permite estimar la pose del usuario utilizando la cámara web del dispositivo.",
+    "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fpose.png?alt=media&token=79857eeb-725f-4e42-8983-833e03526f00",
+    "link": "https://donde-alfredo-admin.vercel.app/",
+
+    "technologies": [
+      {
+        "id": 1,
+        "name": "React",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Freact.png?alt=media&token=967cbb90-49b0-4c11-b1bc-8c96c5f691b1"
+      },
+      {
+        "id": 2,
+        "name": "TensorflowJS",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Ftensorflow.png?alt=media&token=63a6ec83-d5c4-4845-bad0-198b63f5eb58"
+      },
+      {
+        "id": 3,
+        "name": "Vercel",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2FvercelLogo.png?alt=media&token=56f77db1-c291-436e-b409-2c9e91253f4a"
       }
     ]
   }

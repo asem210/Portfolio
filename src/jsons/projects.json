@@ -74,7 +74,7 @@
     "title": "Estimación de pose",
     "description": "Implementación de un modelo para la detección de la pose de una persona utilizando TensorflowJS, permite estimar la pose del usuario utilizando la cámara web del dispositivo.",
     "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fpose.png?alt=media&token=79857eeb-725f-4e42-8983-833e03526f00",
-    "link": "https://donde-alfredo-admin.vercel.app/",
+    "link": "https://pose-estimation-mu.vercel.app/",
 
     "technologies": [
       {

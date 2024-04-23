@@ -55,6 +55,22 @@ export const Education: React.FC<{}> = () => {
             linkState={true}
             link="https://www.scrumstudy.com/certification/verify?type=SFC&number=941879"
           />
+          <ResumeCard
+            title="Software Tessting de Aplicaciones. Postman."
+            subTitle="Udemy - (2023 - Actualidad)"
+            result="Level: Basic"
+            des="Este curso de Testing de APIs se centra en el dominio de Postman, la principal herramienta del sector para probar solicitudes a una API."
+            linkState={true}
+            link="https://drive.google.com/file/d/15CFAPFXV7MFua1Ul7q40a8RnvE9-O2Uv/view?usp=sharing"
+          />
+          <ResumeCard
+            title="Docker - Guía práctica de uso para desarrolladores"
+            subTitle="Udemy - (2023 - Actualidad)"
+            result="Level: Basic"
+            des="Este curso capacita en el uso efectivo de Docker, una plataforma de código abierto para automatizar despliegues de aplicaciones en contenedores. Comprende desde los fundamentos hasta la creación y despliegue de imágenes en múltiples entornos, incluyendo Dockerfiles, Docker Compose y BuildX."
+            linkState={true}
+            link="https://drive.google.com/file/d/19oVWkivmXc15YVKyvXvJkfTt26qDqy_G/view?usp=sharing"
+          />
         </div>
       </div>
     </motion.div>

@@ -43,10 +43,10 @@ export const HeroLeft = () => {
 
       <div className="font-poppins text-white font-thin text-base  tracking-wide leading-6 pt-3 text-justify md:w-[70%] w-full">
         <h1>
-          Soy un estudiante de Ingeniería de Sistemas en la Universidad Nacional
-          Mayor de San Marcos, me encuentro cursando el noveno ciclo, interesado
-          en el ámbito de desarrollo web, centrándome en el desarrollo con el
-          stack PERN (PostgreSQL, Express.Js, React.Js, Node.Js).{" "}
+          Bachiller en Ingeniería de Sistemas en la Universidad Nacional Mayor
+          de San Marcos, culminé la carrera en marzo del 2024, interesado en el
+          ámbito de desarrollo web, centrándome en el desarrollo con el stack
+          PERN (PostgreSQL, Express.Js, React.Js, Node.Js).{" "}
           <Cursor cursorStyle="|" cursorColor="#3A98B9" />
         </h1>
       </div>

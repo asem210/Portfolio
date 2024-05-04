@@ -30,10 +30,10 @@ export const Education: React.FC<{}> = () => {
           <ResumeCard
             title="Bachiller en Ingeniería de Sistemas e Informática"
             subTitle="Universidad Nacional Mayor de San Marcos"
-            result="En trámite"
-            des="Actualmente me encuentro realizando el trámite para la obtención del grado académico de Bachiller, se espera que obtenga este grado a mediados del presente año. "
-            linkState={false}
-            link=""
+            result="Finalizado"
+            des="Obtuve el grado de Bachiller en Ingeniería de Sistemas e Informática en mayo del año 2024."
+            linkState={true}
+            link="https://drive.google.com/file/d/1la0QZ7YdpymLJjWb_mBEFF4rJSqS7fMV/view?usp=sharing"
           />
         </div>
       </div>

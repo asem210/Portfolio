@@ -4,7 +4,7 @@
     "title": "Cevicheria admin",
     "description": "Enfocado en la administración del inventario de la cevicheria, tales como los platillos, inventario y creación de cuentas para el personal",
     "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fbrisas%20marinas%20-%20admin.PNG?alt=media&token=23f625bd-6fd1-4e33-beff-32f23129ac61",
-    "link": "https://donde-alfredo-admin.vercel.app/",
+    "link": "https://brisas-marinas-fe-adm.vercel.app/",
 
     "technologies": [
       {
@@ -39,7 +39,7 @@
     "title": "Cevicheria cliente",
     "description": "Vista para el cliente, donde podrá simular la compra de los platillos que desee, interactuar con un carrito de compras y ver un historial de compras realizadas",
     "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2Fcli.PNG?alt=media&token=77d28e33-0a80-4b2d-9a88-b8c991bdb100",
-    "link": "https://donde-alfredo-cli.vercel.app/brisasMarinas",
+    "link": "https://brisas-marinas-fe-cli.vercel.app/brisasMarinas",
 
     "technologies": [
       {

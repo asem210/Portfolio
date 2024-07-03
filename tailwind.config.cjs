@@ -18,6 +18,7 @@ module.exports = {
         pacifico: ["Pacifico"],
         oswald: ["Oswald"],
         ssp: ["Source Sans Pro"],
+        belleza: ["Belleza"],
       },
     },
     screens: {

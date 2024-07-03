@@ -24,7 +24,7 @@ export const HeroLeft = () => {
 
   return (
     <section id="home" className={`h-fit  bg-fourthmisc flex flex-col`}>
-      <div className="font-ssp text-white text-[20px]  font-normal uppercase ">
+      <div className=" text-white text-[20px]  font-normal uppercase font-belleza ">
         Bienvenido a mi portafolio{" "}
       </div>
 

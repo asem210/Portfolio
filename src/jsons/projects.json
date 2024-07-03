@@ -93,5 +93,29 @@
         "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2FvercelLogo.png?alt=media&token=56f77db1-c291-436e-b409-2c9e91253f4a"
       }
     ]
+  },
+  {
+    "id": 4,
+    "title": "Cooking - Recetas de cocina",
+    "description": "Primer prototipo de página web para recetas de cocina, el usuario puede elegir los ingredientes que dispone en casa, y obtener recetas según su elección",
+    "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Projects%2FCaptura%20de%20pantalla%202024-07-03%20124405.jpg?alt=media&token=3575a949-0c24-443f-868e-5380f423b821",
+    "link": "https://cooking-frontend.vercel.app/cooking/home",
+    "technologies": [
+      {
+        "id": 1,
+        "name": "React",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Freact.png?alt=media&token=967cbb90-49b0-4c11-b1bc-8c96c5f691b1"
+      },
+      {
+        "id": 2,
+        "name": "PostgreSQL",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2F5fa111f3-d1f6-4bf9-bf4e-d5270be28bf9.png?alt=media&token=a480dfee-fd8e-48cc-807b-f2e9b8c0d092"
+      },
+      {
+        "id": 3,
+        "name": "Node + Express",
+        "img": "https://firebasestorage.googleapis.com/v0/b/portfolio-de5ff.appspot.com/o/Technologies%2Fexpress.png?alt=media&token=d3c7d0d4-e0e2-4b1e-a1c9-c5e35638fe77"
+      }
+    ]
   }
 ]
